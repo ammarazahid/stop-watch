@@ -1,0 +1,32 @@
+*{
+    outline: none;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+p{
+    font-size: -webkit-xxx-large;
+    font-weight: 600;
+    margin-bottom: 37px;
+}
+
+button{
+        margin: 20px;
+        padding: 20px 40px;
+        border: none;
+        border-radius: 28px;
+        font-size: xx-large;
+        font-weight: bold;
+        color: #761111;
+        background: #bc6b04;
+}
+
+button:hover{
+    color: #bc6b04;
+    background:  #761111;
+}
