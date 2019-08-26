@@ -5,7 +5,6 @@ let hours = 0;
 let displaySeconds = 0;
 let displayMinutes = 0;
 let displayHours = 0;
-  
 let timer;
 let status = false;
 // let a = document.querySelector("#hours").innerHTML;
