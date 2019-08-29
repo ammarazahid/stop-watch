@@ -28,11 +28,19 @@ button{
         border-radius: 28px;
         font-size: xx-large;
         font-weight: bold;
-        color: #761111;
-        background: #bc6b04;
-}
+        color: black;
+        background-image: linear-gradient(45deg, #00bcd4, transparent);
+    }
 
 button:hover{
-    color: #bc6b04;
-    background:  #761111;
+    padding: 25px 60px;
+}
+
+h1{
+    text-shadow: 6px 5px cadetblue;
+    -webkit-text-stroke-width: medium;
+    font-size: -webkit-xxx-large;
+    font-weight: 600;
+    font-family: cursive;
+    color: black;
 }
